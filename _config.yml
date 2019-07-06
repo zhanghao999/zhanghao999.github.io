@@ -102,9 +102,13 @@ page-mathjax: false
 # Friends
 friends: [
     {
-    #     title: "Su",
-    #     href: "http://su.gallery/"
-    # },{
+         title: "赵春丽的博客",
+         href: "http://www.zhaochunli.site/"
+     },{
+         title: "张凡的博客",
+         href: "http://zhangfan525.top/"
+     }
+     ,{
         title: "张凡的英语阅读网站",
         href: "https://liuwen.applinzi.com"
     }
