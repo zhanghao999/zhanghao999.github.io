@@ -341,8 +341,7 @@ tags:
 
 [跳转到3.14 任务列表](#任务列表)，点击即可跳转到对应的文本。
 
-### 3.18 插入表情
- :relaxed: :relaxed: :relaxed: :relaxed: :relaxed: :relaxed: :relaxed: :relaxed:
+
 ## 结语
 记录生活，记录精彩
 
