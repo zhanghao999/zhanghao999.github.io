@@ -287,87 +287,62 @@ tags:
 效果如下所示：
 <div align="center" markdown="0"><font size="2">图片名称</font> </div>
 
+### 3.14 任务列表
+
+使用语法如下所示：
+```
+- [x] 已完成任务
+
+- [ ] 未完成任务
+```
+效果如下所示：
+
+- [x] 已完成任务
+
+- [ ] 未完成任务
+
+### 3.15 可直接点击链接
+
+在markdown中将链接地址或邮箱地址用<>包围，则会被自动转换成可点击的链接。使用语法如下所示：
+```
+<http://zhangfan.top>
+
+<zf083415@gmail.com>
+```
+效果如下所示：
+
+<http://zhangfan.top>
+
+<zf083415@gmail.com>
+
+### 3.16 插入引用链接
+使用语法如下所示：
+```
+这是一个引用链接的[例子][2]。
+
+[2]: http://example.com/
+```
+效果如下所示：
+这是一个引用链接的[例子][2]。
+
+[2]: http://example.com/
+
+### 3.17 文章内部跳转
+
+文章内部跳转语法和文本链接语法类似，使用语法如下所示：
+```
+语法：[标签](#跳转文本)
+
+例如：[跳转到3.14 任务列表](#任务列表)
+```
+效果如下所示：
+
+[跳转到3.14 任务列表](#任务列表)，点击即可跳转到对应的文本。
+
+### 3.18 插入表情
+
+ :flushed:  :flushed:
+  :flushed:  :flushed:
 ## 结语
 记录生活，记录精彩
 
-#### GFM task lists & Emoji & fontAwesome icon emoji & editormd logo emoji :editormd-logo-5x:
-
-- [x] :smiley: @mentions, :smiley: #refs, [links](), **formatting**, and <del>tags</del> supported :editormd-logo:;
-- [x] list syntax required (any unordered or ordered list supported) :editormd-logo-3x:;
-- [x] [ ] :smiley: this is a complete item :smiley:;
-- [ ] []this is an incomplete item [test link](#) :fa-star: @pandao;
-- [ ] [ ]this is an incomplete item :fa-star: :fa-gear:;
-    - [ ] :smiley: this is an incomplete item [test link](#) :fa-star: :fa-gear:;
-    - [ ] :smiley: this is  :fa-star: :fa-gear: an incomplete item [test link](#);
-
-#### 反斜杠 Escape
-
-\*literal asterisks\*
-
-[========]
-### 科学公式 TeX(KaTeX)
-
-$$E=mc^2$$
-
-行内的公式$$E=mc^2$$行内的公式，行内的$$E=mc^2$$公式。
-
-$$x > y$$
-
-$$\(\sqrt{3x-1}+(1+x)^2\)$$
-
-$$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
-
-多行公式：
-
-```math
-\displaystyle
-\left( \sum\_{k=1}^n a\_k b\_k \right)^2
-\leq
-\left( \sum\_{k=1}^n a\_k^2 \right)
-\left( \sum\_{k=1}^n b\_k^2 \right)
-```
-```katex
-\displaystyle
-    \frac{1}{
-        \Bigl(\sqrt{\phi \sqrt{5}}-\phi\Bigr) e^{
-        \frac25 \pi}} = 1+\frac{e^{-2\pi}} {1+\frac{e^{-4\pi}} {
-        1+\frac{e^{-6\pi}}
-        {1+\frac{e^{-8\pi}}
-         {1+\cdots} }
-        }
-    }
-```
-```latex
-f(x) = \int_{-\infty}^\infty
-    \hat f(\xi)\,e^{2 \pi i \xi x}
-    \,d\xi
-```
-### 分页符 Page break
-
-> Print Test: Ctrl + P
-
-[========]
-
-### 绘制流程图 Flowchart
-
-```flow
-st=>start: 用户登陆
-op=>operation: 登陆操作
-cond=>condition: 登陆成功 Yes or No?
-e=>end: 进入后台
-
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
-[========]
-
-### 绘制序列图 Sequence Diagram
-
-```seq
-Andrew->China: Says Hello
-Note right of China: China thinks\nabout it
-China-->Andrew: How are you?
-Andrew->>China: I am good thanks!
-```
-### End
