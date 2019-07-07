@@ -288,7 +288,7 @@ tags:
 <div align="center" markdown="0"><font size="2">图片名称</font> </div>
 
 ### 3.14 任务列表
-
+<div align="center" markdown="0" id="任务列表"></div>
 使用语法如下所示：
 ```
 - [x] 已完成任务
@@ -332,17 +332,17 @@ tags:
 文章内部跳转语法和文本链接语法类似，使用语法如下所示：
 ```
 语法：[标签](#跳转文本)
+跳转文本要放到id 里面
 
 例如：[跳转到3.14 任务列表](#任务列表)
+3.14 任务列表后面跟了这段代码：<div align="center" markdown="0" id="任务列表"></div>
 ```
 效果如下所示：
 
 [跳转到3.14 任务列表](#任务列表)，点击即可跳转到对应的文本。
 
 ### 3.18 插入表情
-
- :flushed:  :flushed:
-  :flushed:  :flushed:
+ :relaxed: :relaxed: :relaxed: :relaxed: :relaxed: :relaxed: :relaxed: :relaxed:
 ## 结语
 记录生活，记录精彩
 
