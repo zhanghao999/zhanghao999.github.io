@@ -1,0 +1,131 @@
+---
+layout:     post
+title:      "俄语元音和辅音"
+subtitle:   " \"Russian vowels and pronunciations\""
+date:       2019-07-07 8:33:00
+author:     "张凡"
+header-img: "https://aerozf.oss-cn-beijing.aliyuncs.com/images/pytorch/Artificial_network.jpg"
+catalog: true
+tags:
+    - 俄语
+---
+## 0、前言
+   #### 1、俄语的元音
+      元音Аа(a), Ее(ye), Ёё(yo), Ии(i), Оо(o) Уу(u) Ыы(ei) Ээ(ê), Юю(yiu), Яя(yia)
+      半元音：й(y)
+
+   > 备注：电脑切换语言键盘按 win+空格键。
+   #### 2、俄语的辅音
+
+   辅音：Бб(b),Вв(v),Гг(g),Дд(d),Жж(r),Зз(z),Кк(k),Лл(l),Мм(m),Нн(n),Рп(p),Рр(l的颤舌音r),Сс(s),Тт(t),Фф(f),Хх(h),Цц(c),Чч(ch),Шш(sh)Щщ(shq)
+
+   #### 3、软、硬音符号
+      硬音符号ъ（已不用）
+      软音符号ь。如ань（an），ан（ang），相当于анъ
+   #### 4、俄语字母表及发音
+   - 字母表
+   
+   ![](http://ru.eyuzhijia.com/wp-content/uploads/2015/12/1234_thumb.jpg)
+   <div align="center" markdown="0"><font size="2">俄语字母表</font> </div>
+   
+   - 字母表对应发音
+   
+   <div markdown="0">
+   <audio id="audio" controls="" preload="none">
+      <source id="mp3" src="http://ru.eyuzhijia.com/wp-content/uploads/2015/12/%E4%BF%84%E8%AF%AD%E5%AD%97%E6%AF%8D%E8%A1%A8-eyuzhijia.com_.mp3" >
+   </audio></div>    
+   
+
+## 1、第一讲
+   #### 1.1 元音
+   
+   - [а]  发音时口长大，舌自然放平。
+   - [у]  发音时双唇圆簇前伸，舌头后缩上抬。
+   - [о]  双唇圆簇前伸，舌头后部上抬，伸出度小，上抬度低，开口度大。
+   - [з]  唇向两边舒展，舌头前移上抬。
+   
+   #### 1.2 辅音
+   
+   - [п] 发音时双唇闭拢，气流冲破阻塞成音。 
+   - [м]  鼻音，发音时口腔闭拢，气流通过鼻腔发音。
+   - [т]  舌前部和上齿、上齿龈贴近成缝，气流冲破阻塞成音。
+   > 这三个都是清辅音，声带不震动。
+   
+   #### 1.3 词汇
+   
+   - Томат  西红柿
+   - Потом  然后
+   - Позт  诗人
+   - Поп  神父
+   - Папа  爸爸，教皇
+   - Мама  妈妈
+   - Зто 这个
+   - Там 那里，那儿
+   - Тут 这里，这儿
+   - Она  她
+   - Оно  它
+   - Потому 因此
+   - Я  我
+   - Люблю  爱，喜欢
+     > Я люблю тебя  我爱你（：
+   
+   ![](https://aerozf.oss-cn-beijing.aliyuncs.com/russian_learning/1/aoruohua.png)
+   <div align="center" markdown="0"><font size="2">字母重音</font> </div>
+   > 字母上一瞥表示重音符号
+   
+   #### 1.4 调型一
+      调型一定义如下所示：
+      ![](https://aerozf.oss-cn-beijing.aliyuncs.com/russian_learning/1/diaoxingyi.png)
+   <div align="center" markdown="0"><font size="2">调型一定义</font> </div>
+      
+      调型一例子：
+      ![](https://aerozf.oss-cn-beijing.aliyuncs.com/russian_learning/1/diaoxingyilizi.png)
+   <div align="center" markdown="0"><font size="2">调型一例子</font> </div>
+      
+   #### 1.5 句型
+      - Зто ...   这是...
+         - Зто мама   这是爸爸
+         - Зто папа   这是妈妈
+         - Зто позт   这是诗人
+         - Зто томат 这是西红柿
+      
+      - ... тут/там   ...在这里
+         - Папа тут  爸爸在这里
+         - Мама тут  妈妈在这里
+         - Папа там  爸爸在那儿
+         
+   
+   #### 1.6 课文及礼貌用语
+   ##### 1.6.1 课文
+      Зто мама. Мама там. А зто папа. папа тут. Папа поп. Папа у Позта.
+      这是妈妈，妈妈在那儿，而这是爸爸，爸爸在这里。爸爸是一个神父，爸爸在诗人的旁边。
+      
+      新单词：
+        - а  而
+        - у  在....旁边
+        
+   ##### 1.6.2 礼貌用语
+      - Здравствуйте 您好，你们好 （用于正式场合）
+      - Привет   你好  （朋友之间问好）
+      - До свидания  再见
+      
+   #### 1.7 字母手写体
+   字母手写体如下所示：
+   ![](https://aerozf.oss-cn-beijing.aliyuncs.com/russian_learning/1/shouxieti1.png)
+   <div align="center" markdown="0"><font size="2">字母手写体</font> </div>
+        
+   
+      
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
