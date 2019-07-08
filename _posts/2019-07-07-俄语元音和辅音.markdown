@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      "俄语元音和辅音"
+title:      "俄语入门"
 subtitle:   " \"Russian vowels and pronunciations\""
 date:       2019-07-07 8:33:00
 author:     "张凡"
-header-img: "https://aerozf.oss-cn-beijing.aliyuncs.com/images/pytorch/Artificial_network.jpg"
+header-img: "https://aerozf.oss-cn-beijing.aliyuncs.com/russian_learning/russia.jpg"
 catalog: true
 tags:
     - 俄语
@@ -36,7 +36,7 @@ tags:
       <source id="mp3" src="http://ru.eyuzhijia.com/wp-content/uploads/2015/12/%E4%BF%84%E8%AF%AD%E5%AD%97%E6%AF%8D%E8%A1%A8-eyuzhijia.com_.mp3" >
    </audio></div>    
    
-## 1、第一讲
+## 1、第一讲（Урок 1）
 #### 1.1 元音
    
 - [а]  发音时口长大，舌自然放平。
@@ -113,6 +113,157 @@ tags:
 字母手写体如下所示：
    ![](https://aerozf.oss-cn-beijing.aliyuncs.com/russian_learning/1/shouxieti1.png)
    <div align="center" markdown="0"><font size="2">字母手写体</font> </div>
+   
+   
+## 2、第二讲（Урок 2）
+
+#### 2.1 辅音
+- [и] 舌头前移，口微张
+- [ы] 舌头中部上抬，不动，嘴角微咧
+- [н] 舌前部与上齿和上齿龈紧贴成阻，气流通过鼻腔
+- [к] 舌头后部上抬成阻，气流冲开阻塞
+- [с] 舌前部与上齿和上齿龈紧贴成缝，舌尖触下齿，气流过细缝
+ 
+ ![](https://aerozf.oss-cn-beijing.aliyuncs.com/russian_learning/2/20190708144632.png)
+ <div align="center" markdown="0"><font size="2">字母手写体</font> </div>
+ 
+ ![](https://aerozf.oss-cn-beijing.aliyuncs.com/russian_learning/2/20190708145607.png)
+ <div align="center" markdown="0"><font size="2">字母手写体</font> </div>
+   
+ > 俄语单词词典没有音标，可直接读
+  
+#### 2.2 调型二  
+调型二：
+![](https://aerozf.oss-cn-beijing.aliyuncs.com/russian_learning/2/20190708150531.png)
+ <div align="center" markdown="0"><font size="2">调型二</font> </div>
+ 
+ 调型一与调型二：
+![](https://aerozf.oss-cn-beijing.aliyuncs.com/russian_learning/2/20190708152831.png)
+ <div align="center" markdown="0"><font size="2">调型一与调型二</font> </div>
+   
+#### 2.3 新单词
+
+- мы  我们
+- ты  你
+- Кто 谁
+- Анна 安娜（人名）
+- Антон 安东（人名）
+- Нина 妮娜
+- кот 猫
+- утко 鸭子
+- мост 桥
+- сок 果汁
+- нос 鼻子
+- касса 收银台
+- комната 房间
+- ананас 菠萝
+- капуста 洋白菜
+- суп 汤
+- Парус 帆
+- соус 调味汁
+- уксус 醋
+- сок 果汁
+- Урок 课，课程
+- и 和
+- он 他
+- космонавт 宇航员
+
+#### 2.4 对话
+- Мама.Кто это?
+- 妈妈，这是谁？
+
+- Это Анна.
+- 这是安娜。
+
+- Папа.Кто это? 
+- 爸爸，这是谁？
+
+- Это Нина и Антон.
+- 这是安娜和安东。
+
+- Антон.Кто это?
+- 安东，这是谁？
+
+- Это Нина и Антон.
+- 这是安娜和安东。
+
+- Кто у окна?
+- 窗户边是谁？谁在窗户边？
+
+- Кто он? 
+- 他是谁？
+
+- Кто там? 
+- 那里是谁？
+
+- Кто она? 
+- 她是谁？
+
+#### 2.5 名词的性
+![](https://aerozf.oss-cn-beijing.aliyuncs.com/russian_learning/2/20190708153335.png)
+ <div align="center" markdown="0"><font size="2">名词的性</font> </div>
+
+#### 2.6 名词的复数
+
+语法：
+![](https://aerozf.oss-cn-beijing.aliyuncs.com/russian_learning/2/20190708154008.png)
+ <div align="center" markdown="0"><font size="2">名词的复数语法</font> </div>
+ 
+练习：
+ ![](https://aerozf.oss-cn-beijing.aliyuncs.com/russian_learning/2/20190708154532.png)
+ <div align="center" markdown="0"><font size="2">名词的复数练习</font> </div>
+
+#### 2.7 句型
+
+1、句型一
+- Кто это?   这是谁？
+- Это мама.   这是妈妈。
+- А это Анна.  而这是安娜。
+
+![](https://aerozf.oss-cn-beijing.aliyuncs.com/russian_learning/2/20190708161059.png)
+ <div align="center" markdown="0"><font size="2">句型一</font> </div>
+
+2、句型二
+- Кто он?  他是谁？
+- Он поэт.   他是诗人。
+- Он космонавт 他是宇航员。
+
+![](https://aerozf.oss-cn-beijing.aliyuncs.com/russian_learning/2/20190708161111.png)
+ <div align="center" markdown="0"><font size="2">句型二</font> </div>
+
+3、句型三
+- Кто тут?   这里是谁？
+- Кто там?   那里是谁？
+- Кто у окна?   谁在窗边？
+
+![](https://aerozf.oss-cn-beijing.aliyuncs.com/russian_learning/2/20190708161127.png)
+ <div align="center" markdown="0"><font size="2">句型三</font> </div>
+
+4、句型四
+- Это ... и ....   这是。。。和。。。
+- Это Анна и Антон.  这是安娜和安东。
+- Это кот и утко.   这是猫和鸭子。
+- Это мост и касса. 这是桥和收银台。
+
+![](https://aerozf.oss-cn-beijing.aliyuncs.com/russian_learning/2/20190708161148.png)
+ <div align="center" markdown="0"><font size="2">句型四</font> </div>
+
+#### 2.8 礼貌用语
+
+- Можно  可以吗？
+- Пожалуйста  请
+ 
+
+
+
+
+
+
+
+
+
+
+
         
    
       
