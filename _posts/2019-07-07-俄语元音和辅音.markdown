@@ -256,7 +256,7 @@ tags:
 ## 3、第三讲（Урок 3）
 
  <div markdown="0">
-<a href="http://latex.91maths.com/s/?JTVDYmVnaW4lN0JwbWF0cml4JTdEJTBBaSUyMCUyNiUyMGolMjAlMjYlMjBrJTVDJTVDJTBBeDElMjAlMjYlMjB5MSUyMCUyNiUyMHoxJTVDJTVDJTBBeDIlMjAlMjYlMjB5MiUyMCUyNiUyMHoyJTBBJTVDZW5kJTdCcG1hdHJpeCU3RA==" /></a></div>
+<a href="https://www.codecogs.com/eqnedit.php?latex=\begin{bmatrix}&space;i&&space;j&&space;k\\&space;x1&&space;y1&&space;z1\\&space;x2&&space;y2&&space;z2&space;\end{bmatrix}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\begin{bmatrix}&space;i&&space;j&&space;k\\&space;x1&&space;y1&&space;z1\\&space;x2&&space;y2&&space;z2&space;\end{bmatrix}" title="\begin{bmatrix} i& j& k\\ x1& y1& z1\\ x2& y2& z2 \end{bmatrix}" /></a></div>
 
 
 
