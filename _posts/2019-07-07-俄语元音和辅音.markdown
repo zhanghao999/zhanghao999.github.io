@@ -255,7 +255,8 @@ tags:
 
 ## 3、第三讲（Урок 3）
 
- 
+ <div markdown="0">
+<a href="http://latex.91maths.com/s/?JTVDYmVnaW4lN0JwbWF0cml4JTdEJTBBaSUyMCUyNiUyMGolMjAlMjYlMjBrJTVDJTVDJTBBeDElMjAlMjYlMjB5MSUyMCUyNiUyMHoxJTVDJTVDJTBBeDIlMjAlMjYlMjB5MiUyMCUyNiUyMHoyJTBBJTVDZW5kJTdCcG1hdHJpeCU3RA==" /></a></div>
 
 
 
