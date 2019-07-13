@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "frp服务器和客户端配置"
+title:      "frp服务器和客户端配置（内网穿透）"
 subtitle:   " \" frp server and client configuration\""
 date:       2019-07-13 17:01:00
 author:     "张凡"
