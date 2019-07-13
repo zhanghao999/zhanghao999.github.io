@@ -4,7 +4,7 @@ title:      "阿里云服务器实例购买及图形化界面配置"
 subtitle:   " \" aliyun server configration\""
 date:       2019-07-13 16:33:00
 author:     "张凡"
-header-img: "https://i.postimg.cc/d0htVJXJ/rn-Hp-ET5-png.png"
+header-img: "https://aerozf.oss-cn-beijing.aliyuncs.com/images/aliyunserver.jpg"
 catalog: true
 tags:
     - 服务器
