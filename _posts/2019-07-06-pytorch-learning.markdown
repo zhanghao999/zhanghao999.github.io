@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "pytorch 学习笔记"
-subtitle:   " \"pytorch learning note\""
+title:      "pytorch 安装及激励函数"
+subtitle:   " \"pytorch installation and activate function\""
 date:       2019-07-06 8:33:00
 author:     "张凡"
 header-img: "https://aerozf.oss-cn-beijing.aliyuncs.com/images/pytorch/Artificial_network.jpg"
