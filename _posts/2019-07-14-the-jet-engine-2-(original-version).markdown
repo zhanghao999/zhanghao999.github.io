@@ -2,7 +2,7 @@
 layout:     post
 title:      "The jet engine-2"
 subtitle:   " \"Working cycle and airflow\""
-date:       2019-07-04 08:35:00
+date:       2019-07-14 08:35:00
 author:     "张凡"
 header-img: "https://aerozf.oss-cn-beijing.aliyuncs.com/jetengine/jetengine.jpg"
 catalog: true
