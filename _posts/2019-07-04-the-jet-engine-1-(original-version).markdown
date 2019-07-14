@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "The jet engine-1"
-subtitle:   " \"The jet engine-1 (original version)\""
+subtitle:   " \"Basic mechanics\""
 date:       2019-07-04 08:35:00
 author:     "张凡"
 header-img: "https://aerozf.oss-cn-beijing.aliyuncs.com/jetengine/jetengine.jpg"
