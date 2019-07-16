@@ -1,10 +1,10 @@
 # Site settings
-title: Auroraus Blog
-SEOTitle: 张凡的博客 | Auroraus Blog
+title: ZhangHao Blog
+SEOTitle: 张浩的博客 | ZhangHao Blog
 header-img: img/home-bg-art.jpg
-email: aerozhang525@163.com
-description: "This is Auroraus's blog"
-url: "https://zhangfan525.top"              # your host, for absolute URL
+email: 2855799924@qq.com
+description: "This is ZhangHao's blog"
+url: "https://zhanghao999.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -12,9 +12,9 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     auroraus
+#weibo_username:     auroraus
 #zhihu_username:     huxpro
-github_username:    auroraus
+github_username:    zhanghao999
 #twitter_username:   huxpro
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
@@ -67,7 +67,7 @@ netease_comment: false
 
 # Analytics settings
 # Baidu Analytics 
-ba_track_id: [11accef3bbd97c1332e50a1a70fd60ba]
+#ba_track_id: [11accef3bbd97c1332e50a1a70fd60ba]
 
 # Google Analytics
 #ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
@@ -78,7 +78,7 @@ ba_track_id: [11accef3bbd97c1332e50a1a70fd60ba]
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "业精于勤而荒于嬉，行成于思而毁于随"
-sidebar-avatar: https://aerozf.oss-cn-beijing.aliyuncs.com/images/photo.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://aerozf.oss-cn-beijing.aliyuncs.com/images/zh.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -102,8 +102,8 @@ page-mathjax: false
 # Friends
 friends: [
     {
-         title: "赵春丽的博客",
-         href: "http://www.zhaochunli.site/"
+         title: "张浩的博客",
+         href: "https://zhanghao999.github.io/"
      },{
          title: "张凡的博客",
          href: "http://zhangfan525.top/"
